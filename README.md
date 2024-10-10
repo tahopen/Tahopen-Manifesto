@@ -35,11 +35,11 @@ How to Sign:
     Submit a pull request with your changes.
 
 Supporters of the Tahopen Manifesto
-Companies
+***Companies***
 
     [Ambiente Livre](https://www.ambientelivre.com.br) - Providing code contributions, offering cloud infrastructure.
 
-Projects
+***Projects***
 
     [Project Name] - How you support the project (e.g., sharing resources, contributing code, etc.)
 
