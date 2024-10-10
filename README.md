@@ -37,7 +37,7 @@ How to Sign:
 Supporters of the Tahopen Manifesto
 Companies
 
-    [Company Name] - How you support the project (e.g., providing code contributions, offering cloud infrastructure, etc.)
+    [Ambiente Livre](https://www.ambientelivre.com.br) - Providing code contributions, offering cloud infrastructure.
 
 Projects
 
