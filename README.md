@@ -35,20 +35,20 @@ How to Sign:
     Submit a pull request with your changes.
 
 Supporters of the Tahopen Manifesto
-***Companies***
 
-    [Ambiente Livre](https://www.ambientelivre.com.br) - Providing code contributions, offering cloud infrastructure.
+***Companies***
+ - [Ambiente Livre](https://www.ambientelivre.com.br) - Providing code contributions, offering cloud infrastructure.
 
 ***Projects***
-    [Project Name] - How you support the project (e.g., sharing resources, contributing code, etc.)
+ - [Project Name] - How you support the project (e.g., sharing resources, contributing code, etc.)
 
-Foundations
+***Foundations***
 
-    [Foundation Name] - How you support the project (e.g., grants, advocacy, etc.)
+ - [Foundation Name] - How you support the project (e.g., grants, advocacy, etc.)
 
-Individuals
+***Individuals***
 
-    [Your Name] - How you support the project (e.g., code contributions, testing, documentation, etc.)
+- [Your Name] - How you support the project (e.g., code contributions, testing, documentation, etc.)
 
 Thank you for your support and for helping us build a more open and collaborative future with Tahopen!
 
