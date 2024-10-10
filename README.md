@@ -21,3 +21,35 @@ While commercial products often focus on restrictions and intellectual property 
 Open source software shows us that innovation cannot be contained. Every time a company decides to close its code, new doors open for the community. Tahopen is a prime example: the natural response to a product going closed-source is the birth of a free alternative that adheres to open source principles and provides an accessible platform for all.
 
 Tahopen is not just a tool; it’s a philosophy. It embodies the belief that technology should be open, accessible, and evolve through collaboration. By embracing both Open Source and Free Software, Tahopen ensures that innovation is always shared, freedom is respected, and the power of analytics is available to all. Join us on this journey of freedom and innovation, where every contribution strengthens the ecosystem and keeps the spirit of open source alive.
+
+
+**Support the Tahopen e Tahopen Manifesto**
+
+If you align with the principles of Tahopen and would like to support or contribute in any way, we invite you to sign the manifesto by submitting a pull request on GitHub. Add your name or organization under the appropriate category (Companies, Projects, Foundations, or Individuals) and specify how you plan to contribute or support the project.
+
+Feel free to edit the list below, and let’s grow this open-source community together!
+How to Sign:
+
+    Fork this repository.
+    Add your name, organization, or project under the appropriate category in the list below.
+    Submit a pull request with your changes.
+
+Supporters of the Tahopen Manifesto
+Companies
+
+    [Company Name] - How you support the project (e.g., providing code contributions, offering cloud infrastructure, etc.)
+
+Projects
+
+    [Project Name] - How you support the project (e.g., sharing resources, contributing code, etc.)
+
+Foundations
+
+    [Foundation Name] - How you support the project (e.g., grants, advocacy, etc.)
+
+Individuals
+
+    [Your Name] - How you support the project (e.g., code contributions, testing, documentation, etc.)
+
+Thank you for your support and for helping us build a more open and collaborative future with Tahopen!
+
